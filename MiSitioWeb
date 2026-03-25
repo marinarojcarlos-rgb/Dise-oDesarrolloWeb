@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>Mi primer sitio</title>
+</head>
+<body>
+  <h1>Mi primer sitio</h1>
+
+  <ul>
+    <li><a href="index.html">inicio</a></li>
+    <li><a href="intereses.html">intereses</a></li>
+    <li><a href="contacto.html">contacto</a></li>
+  </ul>
+
+  <p>Me llamo Carlos Marinaro. Estoy por recibirme de Licenciado en Marketing y trabajo como analista de inteligencia de negocios y Alliance Manager en Grupo Roemmers.</p>
+
+  <img src="img/fotoCarlos.png" alt="Mi presentación personal">
+</body>
+</html>
